@@ -36,7 +36,7 @@ This project has react script package.
    
 ## Usage
 
-- Visit http://localhost:300 to see app.
+- Visit http://localhost:3000 to see app.
 
 ### To Do
 - Dockerize this app and run with backend written in [flask](https://github.com/saratherv/notes)
